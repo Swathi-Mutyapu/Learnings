@@ -1,8 +1,8 @@
-#####Schema Evolution
+Schema Evolution
 
-###Schema Evolution with Databricks & Delta Lake
+Schema Evolution with Databricks & Delta Lake
 
-####Overview
+Overview
 This project demonstrates how to handle schema evolution in Databricks using Delta Lake. It covers real-world scenarios where data schemas evolve over time and provides best practices for managing these changes effectively.
 
 Key Concepts Covered
